@@ -8,7 +8,7 @@
 
 
 #### Diseño UI
-El diseño base está disponible en [Figma](https://www.figma.com/file/tLq0fMfGIlE1lDxtbaRUq3/Untitled?node-id=0%3A1).
+El diseño base está disponible en Figma.
 
 
 #### Instrucciones
